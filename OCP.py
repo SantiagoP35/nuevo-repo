@@ -1,5 +1,5 @@
 # ============================================================
-# 🟡 2. O — Open/Closed Principle (Abierto/Cerrado)
+# 2. O — Open/Closed Principle (Abierto/Cerrado)
 # ------------------------------------------------------------
 # El código debe estar ABIERTO para extensión (nuevas funciones)
 # pero CERRADO para modificación (no tocar código existente).
