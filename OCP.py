@@ -23,6 +23,6 @@ class NotificadorWhatsApp(Notificador):
     def Notificador(self):
         print(f'Enviado por wasap {self.usuario.whatsapp}')
         
-class NotificadorTwiter(Notificador):
+class NotificadorTwiter+(Notificador):
     def Notificador(self):
         print(f'Enviado por twiter {self.usuario.twiter}')
